@@ -1,8 +1,8 @@
 # neural-network-challenge-1
 Repository for Module 18 Homework Challenge
 
-Code file: student_loans_with_deep_learning.ipynb
-Model: student_loans.keras
+*Code file*: student_loans_with_deep_learning.ipynb
+*Model*: student_loans.keras
 
 Briefly answer the following questions in the space provided:
 
